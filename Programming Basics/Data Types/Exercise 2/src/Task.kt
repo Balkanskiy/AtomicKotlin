@@ -1,6 +1,9 @@
 package dataTypes2
 
 fun main(args: Array<String>) {
-    val s = "Sally" + 5.9
+    val s: String = "Sally" + 5.9
     println(s)
 }
+
+// TBD
+// &shortcut:ShowIntentionActions;.
